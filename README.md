@@ -20,8 +20,7 @@
 - 🔭 I’m currently working on <strong>my projects</strong>.
 - 🌱 I’m currently learning <strong>UX Tricks</strong>.
 - 💬 Ask me about <strong>ReactJs/Laravel</strong>.
-- 📫 How to reach me: <strong>amirrezazarafshani0@gmail.com
-</strong>
+- 📫 How to reach me: <strong>amirrezazarafshani0@gmail.com</strong>
 - 😄 Pronouns: <strong>he/him</strong>
 - ⚡ Fun fact: <strong>my life</strong>
 
