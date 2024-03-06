@@ -37,6 +37,12 @@ I'm Amir, a passionate Full-Stack Developer from Iran. Welcome to my GitHub prof
 
 Feel free to connect with me and reach out if you have any questions or just want to chat! 😊
 
+## 📈 GitHub Stats
+
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirr0z&show_icons=true&theme=radical)
+
+## 🛠️ Tools & Technologies
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirr0z&layout=compact&theme=radical)
 
 ⭐️ From [amir](https://github.com/amirr0z)
