@@ -55,7 +55,7 @@ Developed and deployed a laravel project by order of Behinehsazan Company to man
 
 ### Project 2: [Signalche](https://signalche.ir)
 
-Developed and deployed a laravel project as freelancer for stuck market.
+Developed and deployed a laravel project as freelancer for stock market.
 
 ### Project 3: [Shafa](https://amirr0z.github.io/shafa)
 
